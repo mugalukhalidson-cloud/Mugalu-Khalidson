@@ -1,0 +1,6 @@
+{
+  "name": "Ground Race: Junk High Action",
+  "description": "High-octane 3D scrap buggy racing action over garden brick terraces, launching high off junk ramps with stunt combos and nitrous boost.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
